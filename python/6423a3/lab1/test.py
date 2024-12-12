@@ -1,1 +1,3 @@
 # birinci dosya
+
+print("test")
