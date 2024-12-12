@@ -1,0 +1,5 @@
+192.168.1.10 - - [12/Oct/2024:08:23:47] "GET /index.php HTTP/1.1" 200 4523 "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" "http://example.com"
+203.0.113.45 - - [12/Oct/2024:08:24:03] "GET /about.html HTTP/1.1" 200 1024 "curl/7.68.0" "http://malicious-site.com"
+192.168.1.12 - - [12/Oct/2024:08:25:10] "POST /login HTTP/1.1" 401 1024 "Mozilla/5.0 (Linux; Android 10; Pixel 3)" "-"
+203.0.113.5 - - [12/Oct/2024:08:27:02] "GET /admin HTTP/1.1" 403 512 "Wget/1.20.3 (linux-gnu)" "http://attack.com"
+192.168.1.9 - - [12/Oct/2024:08:28:20] "GET /contact.html HTTP/1.1" 200 2024 "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X)" "http://example.com"
